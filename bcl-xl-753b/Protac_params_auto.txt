@@ -1,0 +1,4 @@
+PDB: vhl_4w9f.pdb 4qnq.pdb
+LIG: vhl_ligand.sdf 4qnq_ligand_ori.sdf
+PROTAC: 753b.smi
+Full: True
